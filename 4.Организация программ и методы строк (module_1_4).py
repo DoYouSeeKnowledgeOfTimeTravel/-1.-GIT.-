@@ -1,0 +1,7 @@
+peremennaya = input()
+print(len(peremennaya .replace(' ', '')))
+print(peremennaya.upper())
+print(peremennaya.lower())
+print(peremennaya.replace(' ', ''))
+print(peremennaya[0])
+print(peremennaya[-1])
